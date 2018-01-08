@@ -30,10 +30,10 @@
 *DESC name_of_table;*
 
 ### Insert information to the table:
-*INSERT INTO name_of_table VALUES (
+* *INSERT INTO name_of_table VALUES (
   0, 'Yegor', 'Heiz', 'hardasarockgg@gmail.com'
   );*
-*INSERT INTO name_of_table (name) VALUES (
+* *INSERT INTO name_of_table (name) VALUES (
   'Yegor2'
   );*
 
@@ -42,3 +42,4 @@
 * *SELECT name, email FROM name_of_table WHERE name = 'Yegor'*
 * *SELECT name FROM name_of_table WHERE name = 'Yegor' OR age = 20;*
 * *SELECT name FROM name_of_table WHERE name = 'Yegor' AND age = 20;*
+* #### Select 
