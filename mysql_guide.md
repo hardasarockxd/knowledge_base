@@ -38,7 +38,7 @@
   );*
 
 ### Select information from table:
-*SELECT * FROM name_of_table;* \n
-*SELECT name, email FROM name_of_table WHERE name = 'Yegor'* \n
-*SELECT name FROM name_of_table WHERE name = 'Yegor' OR age = 20;* \n
-*SELECT name FROM name_of_table WHERE name = 'Yegor' AND age = 20;*
+* *SELECT * FROM name_of_table;*
+* *SELECT name, email FROM name_of_table WHERE name = 'Yegor'*
+* *SELECT name FROM name_of_table WHERE name = 'Yegor' OR age = 20;*
+* *SELECT name FROM name_of_table WHERE name = 'Yegor' AND age = 20;*
