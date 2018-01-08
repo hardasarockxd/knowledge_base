@@ -1,7 +1,7 @@
 # MYSQL Guide
 
-## Enter
-** *mysql -u root -p* **
+### Enter
+***mysql -u root -p***
 
 ## Show all databases
 ** *SHOW databases;* **
